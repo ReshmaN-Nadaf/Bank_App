@@ -1,0 +1,15 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Aug 11 22:16:43 IST 2024","Sun Aug 11 22:16:51 IST 2024","7896","testCases","test_UserProfile","Test_UserProfile","","","test_Login_003",""
+"passed","Sun Aug 11 22:15:48 IST 2024","Sun Aug 11 22:15:55 IST 2024","7216","testCases","test_Search_User_params","Test_Search_User_params","","","test_search_user_params_005[getDataForSearchUser2]",""
+"passed","Sun Aug 11 22:16:01 IST 2024","Sun Aug 11 22:16:09 IST 2024","7933","testCases","test_Search_User_params","Test_Search_User_params","","","test_search_user_params_005[getDataForSearchUser3]",""
+"failed","Sun Aug 11 22:15:03 IST 2024","Sun Aug 11 22:15:14 IST 2024","10975","testCases","test_Search_User_Excel","Test_Search_User_Excel","","","test_search_user_Excel_006",""
+"failed","Sun Aug 11 22:14:50 IST 2024","Sun Aug 11 22:14:57 IST 2024","7013","testCases","test_Search_User","Test_Search_User","","","test_search_user_004",""
+"passed","Sun Aug 11 22:16:34 IST 2024","Sun Aug 11 22:16:36 IST 2024","2517","testCases","test_UserProfile","Test_UserProfile","","","test_Signup_002",""
+"passed","Sun Aug 11 22:15:35 IST 2024","Sun Aug 11 22:15:42 IST 2024","7627","testCases","test_Search_User_params","Test_Search_User_params","","","test_search_user_params_005[getDataForSearchUser1]",""
+"passed","Sun Aug 11 22:15:21 IST 2024","Sun Aug 11 22:15:29 IST 2024","7411","testCases","test_Search_User_params","Test_Search_User_params","","","test_search_user_params_005[getDataForSearchUser0]",""
+"passed","Sun Aug 11 22:16:28 IST 2024","Sun Aug 11 22:16:28 IST 2024","173","testCases","test_UserProfile","Test_UserProfile","","","BankApp url testing 01","self.Log.debug(""This is debug"")
+        self.Log.info(""This is info"")
+        self.Log.warning(""This is warning"")
+        self.Log.error(""This is error"")
+        self.Log.critical(""This is critical"")"
+"failed","Sun Aug 11 22:16:15 IST 2024","Sun Aug 11 22:16:22 IST 2024","7357","testCases","test_Search_User_params","Test_Search_User_params","","","test_search_user_params_005[getDataForSearchUser4]",""
